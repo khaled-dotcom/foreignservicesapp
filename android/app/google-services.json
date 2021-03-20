@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351717254742",
+    "project_id": "ask-project-72795",
+    "storage_bucket": "ask-project-72795.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351717254742:android:4225858008d11af9513df7",
+        "android_client_info": {
+          "package_name": "com.example.dashboard"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351717254742-lb4d3q2s0lne0r63v06j7qrbdip396g0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCt8E2p1cPoQDyNK71qFoJgW5MRPG0eqCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351717254742-lb4d3q2s0lne0r63v06j7qrbdip396g0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
